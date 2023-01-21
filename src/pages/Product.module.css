@@ -1,0 +1,28 @@
+.productPage {
+    position: absolute;
+    width: 100%;
+    margin-top: 3em;
+    display: flex;
+    padding: 3em;
+    justify-content: space-evenly;
+}
+
+.productDetails {
+    background-color: white;
+    padding: 2em;
+    height: fit-content;
+}
+
+.productDetails p {
+    font-size: large;
+    font-weight: bold;
+}
+
+.brand {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.name {
+    font-style: italic;
+    font-weight: lighter;
+}

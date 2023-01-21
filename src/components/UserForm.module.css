@@ -1,0 +1,30 @@
+.actionBtns {
+    margin: 2em;
+}
+
+.signup {
+    margin-inline: 2em;
+    padding: 2em;
+    align-items: center;
+    display: flex;
+    height: 5em;
+    background:rgb(29, 42, 155);
+    border-radius: 1em;
+}
+
+.signup p {
+    color: azure;
+    margin-right: 2em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.close {
+    margin-left: 20%;
+    margin-top: 1em;
+}
+
+.signupBtn {
+    position: absolute;
+    margin-top: -4em;
+    margin-left: 2em;
+}

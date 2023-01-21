@@ -1,0 +1,35 @@
+.itemImg {
+    cursor: pointer;
+    height:400px; 
+    object-fit: cover;
+}
+
+.details {
+    margin-left: 0.5em;
+    display: grid;
+    justify-content: space-between;
+    width: 16em;
+}
+
+.brand {
+    margin: 0%;
+}
+
+.name {
+    margin: 0%;
+    font-style: italic;
+}
+
+.price {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.buyBtn {
+    background-color: white;
+    border: 0.1px solid rgb(146, 111, 211);
+    color: rgb(32, 101, 158);
+    font-family: fantasy;
+    position: absolute;
+    margin-left: 15em;
+}

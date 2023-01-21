@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "category": "Mens Wear",
+        "brand": "Puma",
+        "name": "Men Olive Green Sweatshirt",
+        "price": 32.8,
+        "imgUrl": "/images/PumaSweatShirt.png"
+    },
+    {
+        "id": 2,
+        "brand": "Lewis",
+        "category": "Bottom Wear",
+        "name": "Men Blue Light Fade Stretchable Jeans",
+        "price": 37.50,
+        "imgUrl": "/images/LewisJeans.png"
+    },
+    {
+        "id": 3,
+        "brand": "Nike",
+        "category": "Footwear",
+        "name": "Men Air Force Green Sneakers",
+        "price": 121.70,
+        "imgUrl": "/images/NikeShoe.png"
+    },
+    {
+        "id": 4,
+        "brand": "Adidas",
+        "category": "Mens Wear",
+        "name": "Men Black Jacket",
+        "price": 56.25,
+        "imgUrl": "/images/AdidasJacket.png"
+    },
+    {
+        "id": 5,
+        "brand": "Raymond",
+        "category": "Mens Wear",
+        "name": "Men Navy Blue Slim Fit Solid Pure Cotton Formal Shirt",
+        "price": 20.61,
+        "imgUrl": "/images/Raymond Men.JPG"
+    }
+    ]

@@ -1,0 +1,17 @@
+.page {
+    position: absolute;
+    margin-top: 4em;
+}
+
+.page ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    flex-wrap: wrap;
+    margin-right: 2em;
+}
+
+.page li {
+    background-color: rgb(166, 172, 175);
+    margin-bottom: 1em;
+}

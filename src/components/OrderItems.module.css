@@ -1,0 +1,46 @@
+.pack {
+    display: grid;
+}
+
+.item {
+    display: flex;
+    list-style: none;
+    padding-top: 0.5em;
+    padding-left: 1em;
+}
+
+
+.pImage img {
+    position: absolute;
+    height: 50px;
+    object-fit: cover;
+ }
+
+
+.product {
+    display: grid;
+    margin-left: 3em;
+}
+
+.brand {
+    font-size: large;
+    font-weight: bold;
+ }
+ 
+ .name {
+     font-style: italic;
+ }
+ 
+
+ .rate {
+    display: grid;
+    position: absolute;
+    margin-left: 40%;
+ }
+
+ .orderDate {
+    width: 15em;
+    position: absolute;
+    margin-left: 65%;
+    text-overflow: clip;
+ }

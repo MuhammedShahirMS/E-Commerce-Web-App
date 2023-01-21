@@ -1,0 +1,42 @@
+[
+    {
+        "id": 101,
+        "category": "Womens Tops",
+        "brand": "Roadster",
+        "name": "Magenta Cable Knit Acrylic Pullover",
+        "price": 10.7,
+        "imgUrl": "/images/Roadster Women.PNG"
+    },
+    {
+        "id": 102,
+        "brand": "Sangria",
+        "category": "Others",
+        "name": "Black Floral Gotta Patti Velvet Saree",
+        "price": 20.48,
+        "imgUrl": "/images/Sangria Saree.JPG"
+    },
+    {
+        "id": 103,
+        "brand": "Adidas",
+        "category": "Footwear",
+        "name": "Women Black & Blue Woven Design SheenWalk Shoes",
+        "price": 37.50,
+        "imgUrl": "/images/Adidas Womens Shoe.JPG"
+    },
+    {
+        "id": 105,
+        "brand": "Clora Creation",
+        "category": "Bottom Wear",
+        "name": "Women Solid Velvet Palazzos",
+        "price": 8.7,
+        "imgUrl": "/images/Clora Palazzo.JPG"
+    },
+    {
+        "id": 104,
+        "brand": "Kiana",
+        "category": "Footwear",
+        "name": "Women Off White Mojaris Flats",
+        "price": 7.4,
+        "imgUrl": "/images/Kiana Womens.JPG"
+    }
+    ]
