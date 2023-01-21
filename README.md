@@ -7,7 +7,7 @@ Feature rich e-commerce web app for Fashion. Implemented the necessary functiona
 •	Authentication Page/Modal accessible from multiple Routes.
 •	Dynamic Cart which redirects to Orders Page after Authentication.
 •	‘My Orders’ Page for logged-in users to view all previous Orders.
-•	Responsive design for small devices (in Progress).
+•	Responsive design (in Progress) for small devices.
 
 Project done with: React JS | Vite JS | Redux & Redux Toolkit | React Router v6 | Firebase Authentication | Firebase Firestore | CSS Modules
 
