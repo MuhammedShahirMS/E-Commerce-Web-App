@@ -1,4 +1,4 @@
-1.	E- Commerce Web App (using Reac.js)
+1.	E- Commerce Web App (using React.js with Vite.js)
 
 Feature rich e-commerce web app for Fashion. Implemented the necessary functionalities:
 
